@@ -1,6 +1,6 @@
 # MBTA_Data_Engineer_Course_Final_Project
 
-## The largest headingThis Project was created as the Final Project in the Big Data Engineer course at Naya College By Nitay Yacobovitch, Shoham Gilady and Dor Izmaylov.
+## This Project was created as the Final Project in the Big Data Engineer course at Naya College By Nitay Yacobovitch, Shoham Gilady and Dor Izmaylov.
 We used MBTA API (Massachusetts Bay Transportation Authority) and Google Maps API, and we created data pipelines - while using big data technologies that we learned in the course.
 
 Our main business goals were:
@@ -15,6 +15,6 @@ Our technical/technological goals were:
   b. Real-time data proccessing with limited history, and showing it in a informative dashboard
   c. Build an archive that will save all the existing history
   
-Our architecture:
+## Our architecture:
   
 ![Screenshot](architecture.png)
