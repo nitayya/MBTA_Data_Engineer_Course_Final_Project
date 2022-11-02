@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@c67c5cee-de4c-4326-b333-bc8619ec2e8b" />
+        <remote-mappings server-id="python@sftp://naya@34.70.192.181:122/home/naya/miniconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/tmp/mbta" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://naya@34.173.97.103:122/home/naya/miniconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/tmp/pycharm_project_419" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://naya@34.136.100.230:122/home/naya/miniconda3/bin/python" />
+        <remote-mappings server-id="python@sshConfig://naya@34.132.20.161:122 password/home/naya/miniconda3/bin/python" />
+        <remote-mappings server-id="python@sftp://naya@34.132.20.161:122/home/naya/miniconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="tmp/mbta" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
