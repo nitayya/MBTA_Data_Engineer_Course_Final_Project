@@ -12,8 +12,8 @@ Our technical/technological goals were:
 1. Make a use with the different tools and technologies we covered in the course
 2. Develop few procceses with different goals and capabilities, so we can have an experience with wide range of technologies and different types of work]
    - Real-time data proccessing and communicating with a customer via Telegram Bot
-  b. Real-time data proccessing with limited history, and showing it in a informative dashboard
-  c. Build an archive that will save all the existing history
+   - Real-time data proccessing with limited history, and showing it in a informative dashboard
+   - Build an archive that will save all the existing history
   
 ## Our architecture:
   
