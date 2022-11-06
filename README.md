@@ -12,7 +12,7 @@ Our technical/technological goals were:
 1. Make a use with the different tools and technologies we covered in the course
 2. Develop few proceses with different goals and capabilities, so we can have an experience with wide range of technologies and different types of work]
    - Real-time data processing and communicating with a customer via Telegram Bot
-   - Real-time data processing with limited history, and showing it in a informative dashboard
+   - Real-time data processing with limited history, and showing it in a informative Tableau dashboard
    - Build an archive that will save all the existing history - can be used to execute analysis and gain business insights (and option to add extra relevant data in        the future) - for example what bus lines have the most delays vs. their schedule - and by how much? Based on this data, decisions of changing the schedules in          order to be more accurate can be made. 
   
 ## Our architecture:
